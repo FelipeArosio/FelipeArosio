@@ -2,9 +2,6 @@
 
 **Full Stack Developer | Java Backend | Web & Digital Architecture**
 
-🌍 Language:  
-[🇬🇧 English](README.md) | [🇮🇹 Italiano](README_IT.md) | [🇵🇹 Português](README_PT.md)
-
 ---
 
 I am a **Full Stack Developer** with a strong background in **SEO, digital marketing, and web architecture**, combined with solid experience in **backend development using Java**.
