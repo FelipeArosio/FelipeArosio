@@ -58,17 +58,6 @@ I enjoy solving problems, improving systems, and continuously evolving my techni
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=FelipeArosio&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArosio&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-
-
 ## 🎯 Professional Background
 
 - 🎓 Degree in Communication & Advertising
