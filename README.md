@@ -60,11 +60,13 @@ I enjoy solving problems, improving systems, and continuously evolving my techni
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeArosio&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArosio&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=FelipeArosio&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArosio&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
-<br></br>
+
 
 
 ## 🎯 Professional Background
