@@ -25,7 +25,7 @@ I enjoy solving problems, improving systems, and continuously evolving my techni
   <a href="mailto:felipe_arosio@outlook.com" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1QDykN73p4vuWx_l4Av8dt419FRdS3Y2X/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1Qn3Ltrlp_mDVSuVhK0YJNzXeO6CkYYTZ/view?usp=drive_link" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/View-CV-0A0A0A?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
